@@ -1,3 +1,4 @@
+#Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
 #import numpy as np
 num= "\
 37107287533902102798797998220837590246510135740250\
